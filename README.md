@@ -1,6 +1,6 @@
 **README**
 
-# Diabetes Prediction using Logistic Regression
+# Diabetes prediction Logistics Regression, Decision Tree, Random Forest, KNN, Naive Bayes and SVM
 
 This project aims to predict whether a patient is diabetic or not based on various health-related features using Logistic Regression. The dataset consists of 768 rows and 9 columns, including features like Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, DiabetesPedigreeFunction, and Age. The "Outcome" column serves as the dependent variable, with values 1 and 0 indicating whether a patient is diabetic or not, respectively.
 
